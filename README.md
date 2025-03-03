@@ -6,7 +6,7 @@
 
 This project focuses on Bitcoin price prediction using various deep learning and statistical models, including Long Short-Term Memory (LSTM), Bidirectional LSTM (BiLSTM), Autoregressive Integrated Moving Average (ARIMA), and Auto-regressive Encoder-Decoder Transformers. By leveraging these techniques, the project aims to analyze historical Bitcoin price data and forecast future price trends with improved accuracy.
 
-The proposed approach is tested on a dataset from Yahoo Finance, spanning 10 years of Bitcoin price data. The study demonstrates that the Transformer-based model outperforms traditional approaches, achieving the highest prediction accuracy with an **R² score of 0.9941**. Below is an overview of the methodology and results. Below is an overview of the analysis, along with sample outputs and results. This project was done in May' 2024.
+The proposed approach is tested on a dataset from Yahoo Finance, spanning 10 years of Bitcoin price data. The study demonstrates that the Transformer-based model outperforms traditional approaches, achieving the highest prediction accuracy with an **R² score of 0.9941**. Below is an overview of the analysis, along with sample outputs and results. This project was done in May' 2024.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
